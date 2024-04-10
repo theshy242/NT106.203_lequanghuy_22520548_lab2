@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|d:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|d:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|d:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|d:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|d:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|d:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3546B90-26B3-44AC-B17D-6BB5182F53C1}|lab2\\lab2.csproj|solutionrelative:lab2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LIGON\\AppData\\Local\\Temp\\306b88f6-4895-472a-af86-5e6b4d444827_NT106O23-LAB-main.zip.827\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LIGON\\AppData\\Local\\Temp\\07bcafb9-a6f0-41e2-a967-4ce2645df245_NT106O23-LAB-main.zip.245\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI5.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LIGON\\AppData\\Local\\Temp\\fe727682-9ce9-41d1-918b-f5e60c8fe0d1_NT106O23-LAB-main.zip.0d1\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LIGON\\AppData\\Local\\Temp\\c58ec392-3116-4b3b-8343-211b54db2d6d_NT106.O23.1_Lab2-main.zip.d6d\\NT106.O23.1_Lab2-main\\Lab2\\Bai04.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LIGON\\AppData\\Local\\Temp\\f523a5f0-9961-4e69-a1fc-2063072caa6c_NT106O23-LAB-main.zip.a6c\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI3.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LIGON\\AppData\\Local\\Temp\\e98b39e8-7be0-4c49-8585-0223da132c8f_NT106O23-LAB-main.zip.c8f\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LIGON\\AppData\\Local\\Temp\\45dada3f-bc8b-466e-a54d-15d2fdfaacd0_NT106.O23.1_Lab2-main.zip.cd0\\NT106.O23.1_Lab2-main\\Lab2\\Bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form8.cs",
+              "RelativeDocumentMoniker": "lab2\\Form8.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form8.cs*",
+              "RelativeToolTip": "lab2\\Form8.cs*",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:05:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form8.cs",
+              "RelativeDocumentMoniker": "lab2\\Form8.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form8.cs [Design]*",
+              "RelativeToolTip": "lab2\\Form8.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:05:28.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form4.cs",
+              "RelativeDocumentMoniker": "lab2\\Form4.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form4.cs*",
+              "RelativeToolTip": "lab2\\Form4.cs*",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAALsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:01:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "lab2\\Form4.Designer.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form4.Designer.cs*",
+              "RelativeToolTip": "lab2\\Form4.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:01:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form4.cs",
+              "RelativeDocumentMoniker": "lab2\\Form4.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form4.cs [Design]*",
+              "RelativeToolTip": "lab2\\Form4.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:01:24.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form3.cs",
+              "RelativeDocumentMoniker": "lab2\\Form3.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form3.cs",
+              "RelativeToolTip": "lab2\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:35:58.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form5.cs",
+              "RelativeDocumentMoniker": "lab2\\Form5.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form5.cs [Design]*",
+              "RelativeToolTip": "lab2\\Form5.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:51:16.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form3.cs",
+              "RelativeDocumentMoniker": "lab2\\Form3.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form3.cs [Design]",
+              "RelativeToolTip": "lab2\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:35:28.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "lab2\\Form3.Designer.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form3.Designer.cs",
+              "RelativeToolTip": "lab2\\Form3.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:35:25.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form2.cs",
+              "RelativeDocumentMoniker": "lab2\\Form2.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form2.cs",
+              "RelativeToolTip": "lab2\\Form2.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAH4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:15:58.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form2.cs",
+              "RelativeDocumentMoniker": "lab2\\Form2.cs",
+              "ToolTip": "D:\\lap_trinh_mang_can_ban\\lab2\\lab2\\lab2\\Form2.cs [Design]",
+              "RelativeToolTip": "lab2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:14:36.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BAI4.cs",
+              "DocumentMoniker": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\306b88f6-4895-472a-af86-5e6b4d444827_NT106O23-LAB-main.zip.827\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI4.cs",
+              "ToolTip": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\306b88f6-4895-472a-af86-5e6b4d444827_NT106O23-LAB-main.zip.827\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI4.cs [Read Only]",
+              "ViewState": "AQIAABIBAAAAAAAAAAAAAB0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:04:14.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BAI5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\07bcafb9-a6f0-41e2-a967-4ce2645df245_NT106O23-LAB-main.zip.245\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI5.Designer.cs",
+              "ToolTip": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\07bcafb9-a6f0-41e2-a967-4ce2645df245_NT106O23-LAB-main.zip.245\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI5.Designer.cs [Read Only]",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAHYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:01:21.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BAI5.cs",
+              "DocumentMoniker": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\fe727682-9ce9-41d1-918b-f5e60c8fe0d1_NT106O23-LAB-main.zip.0d1\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI5.cs",
+              "ToolTip": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\fe727682-9ce9-41d1-918b-f5e60c8fe0d1_NT106O23-LAB-main.zip.0d1\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI5.cs [Read Only]",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAAAcBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:02:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bai04.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\c58ec392-3116-4b3b-8343-211b54db2d6d_NT106.O23.1_Lab2-main.zip.d6d\\NT106.O23.1_Lab2-main\\Lab2\\Bai04.Designer.cs",
+              "ToolTip": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\c58ec392-3116-4b3b-8343-211b54db2d6d_NT106.O23.1_Lab2-main.zip.d6d\\NT106.O23.1_Lab2-main\\Lab2\\Bai04.Designer.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:39:36.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BAI3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\f523a5f0-9961-4e69-a1fc-2063072caa6c_NT106O23-LAB-main.zip.a6c\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI3.Designer.cs",
+              "ToolTip": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\f523a5f0-9961-4e69-a1fc-2063072caa6c_NT106O23-LAB-main.zip.a6c\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI3.Designer.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:08:18.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BAI3.cs",
+              "DocumentMoniker": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\e98b39e8-7be0-4c49-8585-0223da132c8f_NT106O23-LAB-main.zip.c8f\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI3.cs",
+              "ToolTip": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\e98b39e8-7be0-4c49-8585-0223da132c8f_NT106O23-LAB-main.zip.c8f\\NT106O23-LAB-main\\22520007-DAODUCVU\\LAB2\\BAI3.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:08:35.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bai04.cs",
+              "DocumentMoniker": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\45dada3f-bc8b-466e-a54d-15d2fdfaacd0_NT106.O23.1_Lab2-main.zip.cd0\\NT106.O23.1_Lab2-main\\Lab2\\Bai04.cs",
+              "ToolTip": "C:\\Users\\LIGON\\AppData\\Local\\Temp\\45dada3f-bc8b-466e-a54d-15d2fdfaacd0_NT106.O23.1_Lab2-main.zip.cd0\\NT106.O23.1_Lab2-main\\Lab2\\Bai04.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:56:05.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
